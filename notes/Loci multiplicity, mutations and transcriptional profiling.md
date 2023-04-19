@@ -1,7 +1,7 @@
 ---
 title: Loci multiplicity, mutations and transcriptional profiling
 created: 2023-03-31T07:09:14.787Z
-modified: 2023-04-19T08:23:45.566Z
+modified: 2023-04-19T14:36:56.880Z
 ---
 
 # Loci multiplicity, mutations and transcriptional profiling
@@ -223,7 +223,7 @@ $$
 
 
 $$
-\mathbb{E}_q[\log(q(\vec{z}))] = \sum_{n,c} \frac{{\Gamma_\mathrm{logits}}_{n,c}}{\sum_c{\Gamma_\mathrm{logits}}_{n,c}}\log\text{-softmax}({\Gamma_\mathrm{logits}}_{n})_c
+\mathbb{E}_q[\log(q(\vec{z}))] = \sum_{n,c} \frac{e^{{\Gamma_\mathrm{logits}}_{n,c}}}{\sum_ce^{{\Gamma_\mathrm{logits}}_{n,c}}}\log\text{-softmax}({\Gamma_\mathrm{logits}}_{n})_c =\sum_{n,c} \Gamma_{n,c}\log\text{-softmax}({\Gamma_\mathrm{logits}}_{n})_c
 $$
 
 $$
