@@ -1,25 +1,25 @@
 ---
 title: Loci multiplicity, mutations and transcriptional profiling
 created: 2023-03-31T07:09:14.787Z
-modified: 2023-04-19T07:39:15.203Z
+modified: 2023-04-19T08:23:45.566Z
 ---
 
 # Loci multiplicity, mutations and transcriptional profiling
 
 Starting from a general assumption as direct extension of the central dogma of MB which if cells have multiple copies of genes than their expressions are proportional to their respective copy number, it follows that major cell transcriptional differences can be quantitatively explained by presence of cell populations with different karyotypes.
 
-Hence, if a gene $g$ as an expression per unit of copy $\mu_g$ then expression of cell $c$  is:
-$$e_{c,g} = s_c \mu_g C_{c,g}$$
+Hence, if a gene $g$ has an expression per unit of copy $\mu_g$, then the expected normalized expression of cells with copy number $C_{c,g}$ in that chromosome region containing the gene $g$ is:
+$$\mathbb{E}_n(\frac{e_{n,g,c}}{s_n}) =  \mu_g C_{c,g}$$
 
-for all genes,where $C_{c,g}$ is the copy number of the cell in the chromosome macroregion containing the gene $g$ and $s_c$ is the cell sampling depth.
+for all genes, where $e_{n,g,c}$ is the number of reads of cell $n$ for gene $g$ with copy number $c$ and $s_n$ is the cell's sampling depth.
 
 Clonealign, an R package, makes this assumption and, based on a GLMM, associate  transcript profiles of each cell to one of the defined copy number profiles.
 
 There are various reasons why this assumption does not hold true. For example, SNPs and indels in a genes may result in nonsense or missense mutations  causing exonic disfunction as loss or gain of stop codons.
 Furthermore, mutations may occurs before or after the copy number alterations increasing the variability in gene expressions among samples and single cells derived from the same source.
 
-I propose the following change to the relation between average gene expression e copy number:
-$$e_{c,g} = s_c \mu_g \sum_jM^{\epsilon}_{c,g,j}.$$
+I propose the following change to the relation between average gene expression e multiplicity:
+$$\mathbb{E}_n(\frac{e_{n,g,c}}{s_n}) =  \mu_g \sum_jM^{\epsilon}_{c,g,j}.$$
 
 --------------
 
