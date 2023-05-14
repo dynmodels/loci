@@ -1,0 +1,22 @@
+Working with sequences and genomic features
+https://monashbioinformaticsplatform.github.io/r-more/topics/sequences_and_features.html
+
+BioStrings and GenomicRanges
+https://combine-australia.github.io/2017-05-19-bioconductor-melbourne/strings_and_ranges.html
+
+genomicalignments biostrings - Google Search
+https://www.google.com/search?sa=N&biw=1920&bih=874&q=genomicalignments++biostrings&tbm=isch&source=univ&fir=j3Af8byTkz2-LM%252C9wqRoplf9VMLpM%252C_%253BYZpNo5gAbmDbWM%252CAjkhliCIYl1geM%252C_%253BAiGY1_gm4KmDeM%252CWEmUKalHyZytuM%252C_%253B3q6dmrwJAdb_6M%252Cvn7GcxPzn8f1OM%252C_%253BY6VHSeWBJ9LnvM%252C7au7Q4QZY8ewNM%252C_%253Bp1SJhzaVur-j-M%252C5TBxDDCnuggfkM%252C_%253BI7y1tObUYpYTSM%252C7au7Q4QZY8ewNM%252C_%253B6GaYX16laRdGiM%252C5vTkqSMSvWydIM%252C_%253Bpv5LmdLASEZ24M%252CNFemV4tH1yDPZM%252C_%253BUvFBWY2OtYEqpM%252CaTKqIe7yGEY0pM%252C_&usg=AI4_-kSWWDrb8SM-21TfK7BP54F3LpYhmg&ved=2ahUKEwiuhfjcwfT-AhVVSfEDHW0IATI4ChDsCXoECBoQEw
+
+Lab 1.5: Data Representations
+https://www.bioconductor.org/help/course-materials/2019/CSAMA/L1.4-bioc-data-representation.html
+
+Bioconductor - ShortRead
+https://bioconductor.org/packages/release/bioc/html/ShortRead.html
+
+An Introduction to ShortRead - Overview.pdf
+https://bioconductor.org/packages/release/bioc/vignettes/ShortRead/inst/doc/Overview.pdf
+
+Lab 1.2: Introduction to Bioconductor
+https://bioconductor.org/help/course-materials/2015/CSAMA2015/lab/L1.2-bioc-intro-morgan.html
+
+

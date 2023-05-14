@@ -1,0 +1,79 @@
+r granges polya - Cerca con Google
+https://www.google.com/search?q=r+granges++polya&ei=J7VeZIi7HdCPxc8P-o6woAI&start=10&sa=N&ved=2ahUKEwjI6sb94fD-AhXQR_EDHXoHDCQQ8NMDegQIBhAO&biw=1920&bih=877&dpr=1
+
+Evidence of efficient stop codon readthrough in four mammalian genes - PMC
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4132726/
+
+Stops making sense: translational trade-offs and stop codon reassignment | BMC Ecology and Evolution | Full Text
+https://bmcecolevol.biomedcentral.com/articles/10.1186/1471-2148-11-227
+
+Evidence for the widespread coupling of alternative splicing and nonsense-mediated mRNA decay in humans - PMC
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC140922/
+
+The structural basis for release-factor activation during translation termination revealed by time-resolved cryogenic electron microscopy - FULLTEXT01.pdf
+https://www.diva-portal.org/smash/get/diva2:1306993/FULLTEXT01.pdf
+
+Mammalian proteome expansion by stop codon readthrough - Manjunath - 2023 - WIREs RNA - Wiley Online Library
+https://wires.onlinelibrary.wiley.com/doi/abs/10.1002/wrna.1739
+
+Ribosome slowdown triggers codon‐mediated mRNA decay independently of ribosome quality control | The EMBO Journal
+https://www.embopress.org/doi/full/10.15252/embj.2021109256
+
+Overlapping genes in natural and engineered genomes | Nature Reviews Genetics
+https://www.nature.com/articles/s41576-021-00417-w
+
+Measuring the tail: Methods for poly(A) tail profiling - Brouze - 2023 - WIREs RNA - Wiley Online Library
+https://wires.onlinelibrary.wiley.com/doi/full/10.1002/wrna.1737
+
+BRGenomics: Tools for the Efficient Analysis of High-Resolution Genomics Data - BRGenomics.pdf
+https://bioconductor.org/packages/devel/bioc/manuals/BRGenomics/man/BRGenomics.pdf
+
+Sierra: discovery of differential transcript usage from polyA-captured single-cell RNA-seq data | Genome Biology | Full Text
+https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02071-7
+
+Sierra/count_polyA.R at master · VCCRI/Sierra · GitHub
+https://github.com/VCCRI/Sierra/blob/master/R/count_polyA.R
+
+TREND-DB—a transcriptome-wide atlas of the dynamic landscape of alternative polyadenylation - PMC
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7778938/
+
+Gviz - Visualize genomic data - Easy Guides - Wiki - STHDA
+http://www.sthda.com/english/wiki/gviz-visualize-genomic-data
+
+Plot Sequencing Depth with Gviz
+https://blog.liang2.tw/posts/2016/01/plot-seq-depth-gviz/
+
+rtracklayer: R interface to genome annotation files and the UCSC genome browser - rtracklayer.pdf
+https://bioconductor.org/packages/devel/bioc/manuals/rtracklayer/man/rtracklayer.pdf
+
+6.1 Operations on genomic intervals with GenomicRanges package | Computational Genomics with R
+https://compgenomr.github.io/book/operations-on-genomic-intervals-with-genomicranges-package.html
+
+6.2 Dealing with mapped high-throughput sequencing reads | Computational Genomics with R
+https://compgenomr.github.io/book/dealing-with-mapped-high-throughput-sequencing-reads.html
+
+6.4 Genomic intervals with more information: SummarizedExperiment class | Computational Genomics with R
+https://compgenomr.github.io/book/genomic-intervals-with-more-information-summarizedexperiment-class.html
+
+9.7 Motif discovery | Computational Genomics with R
+https://compgenomr.github.io/book/motif-discovery.html
+
+6.5 Visualizing and summarizing genomic intervals | Computational Genomics with R
+https://compgenomr.github.io/book/visualizing-and-summarizing-genomic-intervals.html
+
+1.2 Elements of gene regulation | Computational Genomics with R
+https://compgenomr.github.io/book/elements-of-gene-regulation.html
+
+TAPseq source: R/polyA_from_dropseq.R
+https://rdrr.io/bioc/TAPseq/src/R/polyA_from_dropseq.R
+
+An Introduction to the GenomicRanges Package
+https://bioconductor.org/packages/devel/bioc/vignettes/GenomicRanges/inst/doc/GenomicRangesIntroduction.html
+
+Overlap encodings - OverlapEncodings.pdf
+https://bioconductor.org/packages/release/bioc/vignettes/GenomicAlignments/inst/doc/OverlapEncodings.pdf
+
+Working with aligned nucleotides (WORK-IN-PROGRESS!) - WorkingWithAlignedNucleotides.pdf
+https://bioconductor.org/packages/release/bioc/vignettes/GenomicAlignments/inst/doc/WorkingWithAlignedNucleotides.pdf
+
+
